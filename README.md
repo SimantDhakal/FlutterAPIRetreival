@@ -1,6 +1,6 @@
-# deleteone
+# FlutterReterivalApp
 
-A new Flutter application.
+On going project to demostrate, how can we fetch data from api and display in card
 
 ## Getting Started
 
