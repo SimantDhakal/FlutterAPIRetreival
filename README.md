@@ -1,6 +1,6 @@
 # FlutterReterivalApp
 
-On going project to demostrate, how can we fetch data from api and display in card
+On going project to demostrate, how to fetch data from api and display in card
 
 ## Getting Started
 
